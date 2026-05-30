@@ -106,3 +106,9 @@ I am interested in collaborating on projects related to:
 ---
 
 > Building tools that make healthcare safer, smarter and more human.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sferurek&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sferurek&layout=compact)

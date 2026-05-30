@@ -1,6 +1,6 @@
 # Hi, I'm Sergio Fernández 👋
 
-Pediatric Emergency Physician · Clinical Simulation Educator · Health Innovation Enthusiast · AI Builder
+Pediatric Emergency Physician 🇪🇸 | Clinical Simulation Educator | Building AI-powered healthcare, education & decision-support tools | Open-source projects in digital health.
 
 ---
 

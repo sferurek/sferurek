@@ -24,6 +24,24 @@ I enjoy building practical tools that help healthcare professionals make better 
 
 ## 🚀 Current Projects
 
+### 🩺 PedsCore (Open-Source)
+Open-source platform of pediatric and neonatal clinical calculators and decision-support tools.
+
+Features include:
+
+- 78 structured clinical tools
+- Full evidence tracking with primary references (DOI/PMID/URL)
+- Conservative implementation statuses
+- Metadata-driven forms and interpretations
+- Evidence matrix visible online
+- Fully reactive and bilingual web interface
+- Focused on traceability, safety, and reproducibility
+- No storage of clinical data, no backend or sensitive analytics
+
+GitHub: [https://github.com/sferurek/PedsCore](https://github.com/sferurek/PedsCore)
+
+---
+
 ### 🧪 ToxSEUP
 Clinical toxicology support application for Pediatric Emergency Departments.
 
@@ -100,8 +118,8 @@ I am interested in collaborating on projects related to:
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/sferurek
-- GitHub: github.com/sferurek
+- LinkedIn: [www.linkedin.com/in/sferurek](https://www.linkedin.com/in/sferurek)
+- GitHub: [github.com/sferurek](https://github.com/sferurek)
 
 ---
 
